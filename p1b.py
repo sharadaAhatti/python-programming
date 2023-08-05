@@ -1,0 +1,7 @@
+n1 = int(input('enter value n1:'))
+n2 = int(input('enter value n2:'))
+print('Arithmetic operation')
+print('adding of two numbers', (n1+n2))
+print('subtraction of two numbers', (n1-n2))
+print('multiplication of two numbers', (n1*n2))
+print('division of two numbers', (n1/n2))
